@@ -1,0 +1,16 @@
+# Eclipse workspace
+/.metadata/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build files
+build/
+
+# Database credentials
+DBConnection.java
+
+# Eclipse/Tomcat server configuration
+Servers/
